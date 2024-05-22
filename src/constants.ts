@@ -9,7 +9,7 @@ export enum ChainId {
   RINKEBY = 4,
   GÖRLI = 5,
   KOVAN = 42,
-  BTestnet = 20212
+  BTestnet = 6110
 }
 
 export enum TradeType {
@@ -23,7 +23,7 @@ export enum Rounding {
   ROUND_UP
 }
 
-export const FACTORY_ADDRESS = '0x89a4EB583BB3e7902940b600335443A906899e02'
+export const FACTORY_ADDRESS = '0x68f2Dacf0f0c7C2F7665B8392ed782075bd30f58'
 
 export const INIT_CODE_HASH = '0xa798997accab5fce57913fa46f39f540c10d89afeede9f52f8939b0c0dae9c94'
 
